@@ -107,6 +107,7 @@ https://engmoelmasry.testrail.io/index.php?/runs/view/1&group_by=cases:section_i
 
 where block of Automated smoke UI testcases were executed using playwright and execution results was integrated automatically to TestRail Test Run Results Dashboard
 
+also if you navigate to TestRail Test Runs you will find 3 Testruns the first one is sample UI regression Run including sample testcases from manual created testcases inside TestRail, the 2nd Run is the mentioned above , Finally the 3rd Run is smoke API Test Run 
 
 🧾 TestRail Run Mapping Example
 
